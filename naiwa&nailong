@@ -1,1 +1,8 @@
 
+# How Far Can a Broken Image Travel? Naiwa and Nailong Across Three Layers of Developer Assets
+
+*ecnuJeff · East China Normal University · November 2026*
+
+A single-day crawl on 17 November 2026 counted how far two internet characters travelled in developer communities. Repositories came from the GitHub Search API, packages from npm, models from Hugging Face, all deduplicated before counting. Naiwa and Nailong are close at the repository layer: 281 against 267, a 5.2% gap. The gap opens elsewhere: npm monthly downloads are 2,156 against 556, and model-layer assets are 0 against 42/11/12. The report's point is that a failed AI-generated image can enter lightweight, distributable layers, but not layers that need a stable labelled subject.
+
+**Source and scope.** GitHub Search API, npm registry, Hugging Face API; single-day snapshot on 17 November 2026, deduplicated. No significance test, no causal claim.
